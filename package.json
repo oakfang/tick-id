@@ -1,10 +1,10 @@
 {
   "name": "tick-id",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Give each tick on the Node.js event loop it's own ID",
   "main": "index.js",
   "dependencies": {
-    "async-listener": "^0.5.6",
+    "async-listener": "^0.6.7",
     "max-safe-integer": "^1.0.0"
   },
   "devDependencies": {
